@@ -1,3 +1,3 @@
 # gohub
 
-minimalistic cli app to search github
+minimalistic cli program to search github
